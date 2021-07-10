@@ -5,7 +5,6 @@ const productsService = require('../../services/productsService');
 const productsController = require('../../controllers/productController');
 const salesService = require('../../services/salesService');
 const salesController = require('../../controllers/salesController');
-const salesModel = require('../../models/salesModel');
 
 
 describe('Testando productsController', () => {
